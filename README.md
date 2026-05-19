@@ -63,7 +63,7 @@ OASIS is designed to run locally on consumer hardware.
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/Project-OASIS.git
+git clone https://github.com/Mouni-kalamraju/Project_OASIS.git
 cd Project-OASIS
 ```
 **2. Install Python dependencies:**
