@@ -1,0 +1,16 @@
+streamlit
+ollama
+Pillow
+pandas
+numpy
+matplotlib
+opencv-python
+PyMuPDF
+langchain-community
+sentence-transformers
+faiss-cpu
+scipy
+torchvision
+pybase64
+
+
