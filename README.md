@@ -22,6 +22,10 @@ Engineering is the foundation of the future, yet the tools we use to teach it of
 
 **OASIS** changes this. Operating entirely offline at the edge, it empowers students to gain instant lab experience alongside their studies. It serves as a unified workspace where students can learn theory, simulate signal processing, and solve complex GATE (Graduate Aptitude Test in Engineering) questions, all without requiring an internet connection or a massive GPU.
 
+**My ultimate vision is that a fully tailored OASIS ecosystem becomes a standard, built-in tool on every engineering student's laptop—serving as the modern, interactive equivalent of a textbook.**
+
+---
+
 ## 🏗️ Dual-Tiered Architecture
 
 We solved the edge-hardware bottleneck by splitting the workload across the Gemma 4 family:
