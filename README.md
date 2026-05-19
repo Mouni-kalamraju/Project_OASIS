@@ -12,7 +12,7 @@
 
 **OASIS** is an offline, Gemma 4-powered engineering tutor and interactive workspace, specifically designed to meet the unique requirements of both students and instructors in the Electronics and Communication Engineering (ECE) domain.
 
-Built for the **Gemma 4 Hackathon: Future of Education**.
+A Proof-of-Concept for modular, offline AI orchestration, demonstrating multi-stage data pipelines, agentic retrieval, and persistent state execution on edge hardware.
 
 ---
 
