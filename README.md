@@ -15,10 +15,12 @@
 A Proof-of-Concept for modular, offline AI orchestration, demonstrating multi-stage data pipelines, agentic retrieval, and persistent state execution on edge hardware.
 
 <p align="center">
-  <img src="test_assets/screenshot1.png" width="32%" />
-  <img src="test_assets/screenshot2.png" width="32%" />
-  <img src="test_assets/screenshot3.png" width="32%" />
+  <img src="https://github.com/Mouni-kalamraju/Project_OASIS/blob/main/test_assets/Screenshot1.png" width="24%" />
+  <img src="https://github.com/Mouni-kalamraju/Project_OASIS/blob/main/test_assets/Screenshot2.png" width="24%" />
+  <img src="https://github.com/Mouni-kalamraju/Project_OASIS/blob/main/test_assets/Screenshot3.png" width="24%" />
+  <img src="https://github.com/Mouni-kalamraju/Project_OASIS/blob/main/test_assets/Screenshot4.png" width="24%" />
 </p>
+
 ---
 
 ## 🌟 The Vision
