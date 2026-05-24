@@ -1,4 +1,4 @@
-# 🌴 Project OASIS: Offline Adaptive Student & Instructor System
+# Project OASIS: Offline Adaptive Student & Instructor System
 
 
 <img width="1456" height="720" alt="image" src="https://github.com/user-attachments/assets/fc857cbb-eb51-43ef-908d-d6a688cd14f0" />
@@ -14,6 +14,11 @@
 
 A Proof-of-Concept for modular, offline AI orchestration, demonstrating multi-stage data pipelines, agentic retrieval, and persistent state execution on edge hardware.
 
+<p align="center">
+  <img src="test_assets/screenshot1.png" width="32%" />
+  <img src="test_assets/screenshot2.png" width="32%" />
+  <img src="test_assets/screenshot3.png" width="32%" />
+</p>
 ---
 
 ## 🌟 The Vision
